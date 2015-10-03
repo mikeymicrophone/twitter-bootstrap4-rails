@@ -32,7 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'twitter-bootstrap4-rails', git: "git@github.com:irahulsingh/twitter-bootstrap4-rails.git"
+gem 'twitter-bootstrap4-rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

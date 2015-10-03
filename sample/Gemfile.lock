@@ -1,11 +1,3 @@
-GIT
-  remote: git@github.com:irahulsingh/twitter-bootstrap4-rails.git
-  revision: 0e9f9347331fa27dec1bd1aef310b70d0ab102cc
-  specs:
-    twitter-bootstrap4-rails (0.1.0)
-      actionpack (>= 3.1)
-      railties (>= 3.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -100,6 +92,9 @@ GEM
     tilt (1.4.1)
     turbolinks (2.5.3)
       coffee-rails
+    twitter-bootstrap4-rails (0.1.0)
+      actionpack (>= 3.1)
+      railties (>= 3.1)
     tzinfo (0.3.45)
     uglifier (2.7.2)
       execjs (>= 0.3.0)
@@ -117,7 +112,7 @@ DEPENDENCIES
   sdoc
   sqlite3
   turbolinks
-  twitter-bootstrap4-rails!
+  twitter-bootstrap4-rails
   uglifier (>= 1.3.0)
 
 BUNDLED WITH

@@ -1,8 +1,9 @@
 # Twitter::Bootstrap4::Rails
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/twitter/bootstrap4/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
+Twitter Bootstrap4 currently is in Alpha Stage, Very soon it will be released.
 
-TODO: Delete this and the text above, and describe your gem
+[What’s new](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/).
+[Documentation](http://v4-alpha.getbootstrap.com/).
 
 ## Installation
 
@@ -22,7 +23,23 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add Following in your application.js
+
+	//=require bootstrap4
+
+and following in your application.css
+
+    *= require bootstrap4
+
+## Fallback to version 3
+
+Add Following in your application.js
+
+	//=require bootstrap3
+
+and following in your application.css
+
+    *= require bootstrap3
 
 ## Development
 
@@ -38,4 +55,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-

@@ -2,8 +2,9 @@
 
 Twitter Bootstrap4 currently is in Alpha Stage, Very soon it will be released.
 
-[What’s new](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/).
-[Documentation](http://v4-alpha.getbootstrap.com/).
+[What’s new](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
+
+[Documentation](http://v4-alpha.getbootstrap.com/)
 
 ## Installation
 

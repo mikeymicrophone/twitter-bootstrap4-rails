@@ -1,1 +1,1 @@
-//=require bootstrap4/bootstrap.min.js
+//=require bootstrap4/bootstrap.js
